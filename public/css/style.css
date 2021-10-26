@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.nabvar{
+    font-family: 'Poppins', sans-serif;
+    min-height: 90px;
+}
+.btn-primary{
+    background-color: rgb(198, 102, 207);
+    border-color: rgb(207, 102, 207);
+}
+.btn-primary:hover{
+    background-color: rgb(174, 102, 207);
+    border-color: rgb(174, 102, 207);
+}
